@@ -23,6 +23,10 @@
 
   </div>
 
+```sh
+git clone -b marcustw https://github.com/marcustw/NvChad ~/.config/nvim --depth 1 && nvim
+```
+
 ## Showcase
 
 <img src="https://nvchad.com/features/nvdash.webp">
